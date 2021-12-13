@@ -4,5 +4,5 @@ Creates uniq avatar(like github avatar)<br>
 and draw2d  <a href="github.com/llgcode/draw2d">draw2d package</a> <br>
 Package draw2d is a go 2D vector graphics library with support for multiple outputs such as images (draw2d), pdf documents (draw2dpdf), opengl (draw2dgl) and svg (draw2dsvg).
 
-<p>типо этого</p>
+<p>тип этого</p>
 <img src="zhansultan.png" alt="альтернативный текст">
